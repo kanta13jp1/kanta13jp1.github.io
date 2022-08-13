@@ -28,3 +28,7 @@ You can then modify your GitHub Pages' content and style.
 GitHub Pagesは、GitHubを介してホストされ、公開されたパブリックWebページです。
 立ち上げて実行する最も迅速な方法は、Jekyllのテーマチューザーを使用して、既製のテーマをロードすることです。
 その後、あなたのGitHub Pagesのコンテンツとスタイルを変更することができます。
+
+This guide will lead you through creating a user site at username.github.io.
+
+このガイドでは、username.github.ioにユーザーサイトを作成する方法を説明します。
