@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/kanta13jp1/kanta13jp1.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+GitHub上のエディターを使用して、Markdownファイルでウェブサイトのコンテンツを管理し、プレビューすることができます。
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
