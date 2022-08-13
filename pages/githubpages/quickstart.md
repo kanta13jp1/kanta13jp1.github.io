@@ -32,3 +32,11 @@ GitHub Pagesは、GitHubを介してホストされ、公開されたパブリ�
 This guide will lead you through creating a user site at username.github.io.
 
 このガイドでは、username.github.ioにユーザーサイトを作成する方法を説明します。
+
+## Creating your website
+
+- In the upper-right corner of any page, use the  drop-down menu, and select New repository.
+
+- 各ページの右上にあるドロップダウンメニューから、「新規リポジトリ」を選択します。
+
+![Image](./repo-create.png)

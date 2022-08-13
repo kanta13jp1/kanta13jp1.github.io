@@ -3,9 +3,11 @@
 
 You can use the [editor on GitHub](https://github.com/kanta13jp1/kanta13jp1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+GitHub上のエディターを使用して、Markdownファイルでウェブサイトのコンテンツを管理し、プレビューすることができます。
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-GitHub上のエディターを使用して、Markdownファイルでウェブサイトのコンテンツを管理し、プレビューすることができます。
+このリポジトリにコミットするたびに、GitHub PagesはJekyllを実行し、あなたのMarkdownファイルのコンテンツから、あなたのサイトのページを再構築します。
 
 ### Markdown
 
