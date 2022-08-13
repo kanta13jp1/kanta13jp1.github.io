@@ -1,6 +1,6 @@
-# Algorithms
-
 [Go To Index](../)
+
+# Algorithms
 
 ## Sort
 
