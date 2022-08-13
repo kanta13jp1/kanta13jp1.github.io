@@ -9,14 +9,10 @@ GitHub Pages を使ってオープンソースプロジェクトを紹介した�
 
 ```
 GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations, 
-
 and in public and private repositories with GitHub Pro, GitHub Team, GitHub Enterprise Cloud, 
-
 and GitHub Enterprise Server. For more information, see "GitHub's products."
 
 GitHub Pagesは、GitHub FreeとGitHub Free for organizationsでパブリックリポジトリ、
-
 GitHub Pro、GitHub Team、GitHub Enterprise Cloud、GitHub Enterprise Serverで
-
 パブリックリポジトリとプライベートリポジトリで利用することができます。詳しくは、"GitHubの製品 "をご覧ください。
 ```
