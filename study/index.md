@@ -1,0 +1,3 @@
+# Study Index
+
+- [Algorithms](./algorithms)

@@ -1,8 +1,6 @@
 # Algorithms
 
-[[toc]]
-[[toc](../)]
-[toc](../)
+[Go To Index](../)
 
 ## Sort
 

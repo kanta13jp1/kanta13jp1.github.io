@@ -1,7 +1,10 @@
 # Index
 
+## [Pages](./pages)
 - [About](./pages/about)
 - [Github Pages](./pages/githubpages)
+
+## [Study](./study)
 - [Algorithms](./study/algorithms)
 
 ## Welcome to GitHub Pages
