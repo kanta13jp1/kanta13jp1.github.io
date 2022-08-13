@@ -7,6 +7,6 @@ You can use GitHub Pages to showcase some open source projects, host a blog, or 
 
 GitHub Pages を使ってオープンソースプロジェクトを紹介したり、ブログをホストしたり、あるいはあなたの履歴書を共有したりすることができます。このガイドは、あなたの次のウェブサイトを作成するのに役立つことでしょう。
 
-``
+:::note info
 GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations, and in public and private repositories with GitHub Pro, GitHub Team, GitHub Enterprise Cloud, and GitHub Enterprise Server. For more information, see "GitHub's products."
-``
+:::
