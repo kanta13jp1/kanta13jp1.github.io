@@ -1,6 +1,8 @@
 # Algorithms
 
 [[toc]]
+[[toc](../)]
+[toc](../)
 
 ## Sort
 

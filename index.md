@@ -2,7 +2,7 @@
 
 - [About](./pages/about)
 - [Github Pages](./pages/githubpages)
-
+- [Algorithms](./study/algorithms)
 
 ## Welcome to GitHub Pages
 
