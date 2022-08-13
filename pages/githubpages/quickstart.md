@@ -35,8 +35,14 @@ This guide will lead you through creating a user site at username.github.io.
 
 ## Creating your website
 
-- In the upper-right corner of any page, use the  drop-down menu, and select New repository.
+1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
 
-- 各ページの右上にあるドロップダウンメニューから、「新規リポジトリ」を選択します。
+1. 各ページの右上にあるドロップダウンメニューから、「新規リポジトリ」を選択します。
 
 ![Image](./repo-create.png)
+
+1. Enter username.github.io as the repository name. Replace username with your GitHub username. 
+For example, if your username is octocat, the repository name should be octocat.github.io.
+
+1. リポジトリ名として username.github.io を入力します。usernameはGitHubでのユーザー名に置き換えてください。
+たとえば、ユーザー名が octocat の場合、リポジトリ名は octocat.github.io となります。
