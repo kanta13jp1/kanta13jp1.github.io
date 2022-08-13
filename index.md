@@ -1,3 +1,4 @@
+[Go To Index](../)
 # Index
 [About](./pages/about)
 
