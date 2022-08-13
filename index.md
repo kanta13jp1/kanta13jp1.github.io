@@ -1,5 +1,5 @@
 # Index
-- [About](./pages/about)
+[About](./pages/about)
 
 ## [Pages](./pages)
 - [Github Pages](./pages/githubpages)
