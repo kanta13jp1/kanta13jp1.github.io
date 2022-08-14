@@ -55,3 +55,12 @@ For example, if your username is octocat, the repository name should be octocat.
 
 ![Image](./repo-actions-settings.png)
 
+1. In the "Code and automation" section of the sidebar, click  Pages.
+
+1. サイドバーの「コードとオートメーション」セクションで、「ページ」をクリックします。
+
+1. Click Choose a theme.
+
+1. テーマを選択する」をクリックします。
+
+![Image](./choose-theme.png)
