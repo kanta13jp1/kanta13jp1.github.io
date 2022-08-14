@@ -7,3 +7,4 @@
 
 ## [Study](./study)
 - [Algorithms](./study/algorithms)
+- [Django](./study/django)
