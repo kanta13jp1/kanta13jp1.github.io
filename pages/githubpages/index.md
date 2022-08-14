@@ -1,4 +1,4 @@
-[Go To Index](../)
-# Pages Index
+[Go To Pages Index](../pages)
+# GitHub Pages Index
 
-- [Github Pages](./githubpages)
+- [Github Pages](./quickstart)
