@@ -1,6 +1,12 @@
 Index
+
+[kanta13jp1](https://kanta13jp1.github.io/)の個人的なメモ帳です ✍🏻
+
+- [このサイトのソースコード](https://github.com/kanta13jp1/kanta13jp1.github.io)
+
+this page is edit on [github]()
 # Index
-[About](./about)
+- [About](./about)
 
 ## [Pages](./pages)
 - [Github Pages](./pages/githubpages)
