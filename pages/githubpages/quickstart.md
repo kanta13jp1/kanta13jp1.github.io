@@ -1,4 +1,4 @@
-Index > Pages Index > [GitHub Pages](../githubpages)
+Index / Pages Index / [GitHub Pages](../githubpages) / Quickstart for GitHub Pages
 # Quickstart for GitHub Pages
 
 [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
@@ -49,10 +49,9 @@ For example, if your username is octocat, the repository name should be octocat.
 
 ![Image](./create-repository-name-pages.png)
 
-1. Optionally, add a description of your repository. 
-For example, "My first repository on GitHub."
+1. Under your repository name, click  Settings.
 
-1. オプションで、あなたのリポジトリの説明を追加します。
-例えば、"My first repository on GitHub."（GitHubで初めてのリポジトリ）など。
+1. リポジトリ名の下にある「設定」をクリックします。
 
-![Image](./create-repository-desc.png)
+![Image](./repo-actions-settings.png)
+
