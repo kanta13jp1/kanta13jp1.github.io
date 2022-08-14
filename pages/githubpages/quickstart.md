@@ -64,3 +64,11 @@ For example, if your username is octocat, the repository name should be octocat.
 1. テーマを選択する」をクリックします。
 
 ![Image](./choose-theme.png)
+
+1. The Theme Chooser will open. Browse the available themes, then click Select theme to select a theme. 
+It's easy to change your theme later, so if you're not sure, just choose one for now.
+
+1. テーマチューザーが開きます。利用可能なテーマを参照し、「テーマを選択」をクリックしてテーマを選択します。
+テーマは後から簡単に変更できるので、迷ったときはとりあえず選んでおきましょう。
+
+![Image](./select-theme.png)
