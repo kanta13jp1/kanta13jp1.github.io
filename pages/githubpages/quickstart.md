@@ -46,3 +46,13 @@ For example, if your username is octocat, the repository name should be octocat.
 
 1. リポジトリ名として username.github.io を入力します。usernameはGitHubでのユーザー名に置き換えてください。
 たとえば、ユーザー名が octocat の場合、リポジトリ名は octocat.github.io となります。
+
+![Image](./create-repository-name-pages.png)
+
+1. Optionally, add a description of your repository. 
+For example, "My first repository on GitHub."
+
+1. オプションで、あなたのリポジトリの説明を追加します。
+例えば、"My first repository on GitHub."（GitHubで初めてのリポジトリ）など。
+
+![Image](./create-repository-desc.png)
