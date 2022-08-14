@@ -1,4 +1,4 @@
-[Go To Index](../)
+[Index](../)
 # Study Index
 
 - [Algorithms](./algorithms)

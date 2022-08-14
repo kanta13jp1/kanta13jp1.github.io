@@ -1,4 +1,4 @@
-[Go To Index](../)
+[Index](../)
 # Pages Index
 
 - [Github Pages](./githubpages)

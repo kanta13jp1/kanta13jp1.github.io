@@ -1,4 +1,4 @@
-[Go To Index](../)
+Index > Pages Index > [GitHub Pages](../githubpages)
 # Quickstart for GitHub Pages
 
 [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
