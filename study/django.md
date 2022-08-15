@@ -567,8 +567,6 @@ def post_list(request):
 テンプレートから呼び出す場合は以下のようにする。アプリ内の`static`フォルダからの相対パスになるので注意する。
 
 ```html
-<!-- {% load static %} -->
-
 <link rel="stylesheet" href="{% static 'blog.css' %}" />
 ```
 
