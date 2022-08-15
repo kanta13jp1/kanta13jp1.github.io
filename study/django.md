@@ -709,7 +709,6 @@ view から受け取った`form`を使ってフォームを表示する
 ```xml
 <h1>New post</h1>
   <form method="POST">
-  {% csrf_token %}
   {{ form.as_p }}
   <button type="submit">Save</button>
 </form>
