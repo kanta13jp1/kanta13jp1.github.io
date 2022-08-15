@@ -576,8 +576,6 @@ def post_list(request):
 親側テンプレート(`base.html`)
 
 ```xml
-<head><link rel="stylesheet" href="{% static 'blog.css' %}"></head>
-
 <h1><a href="/">Django Girls Blog</a></h1>
 
 {% block content %}
