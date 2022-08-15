@@ -606,7 +606,6 @@ def post_detail(request, pk): # ここにparamsがインジェクトされる
 ### リンクの動的な作成
 
 ```html
-<a href="{% url 'post_detail' pk=post.pk %}"></a>
 ```
 
 - `post_detail`は urlpatterns の name で指定する。これにより、実際のパスマッピングが変更されたとしても、テンプレートを修正しなくてよくなる。
@@ -720,10 +719,8 @@ view から受け取った`form`を使ってフォームを表示する
 
 ```xml
 <!-- 新規投稿 -->
-<a href="{% url 'post_new' %}">add new post</a>
 
 <!-- 編集 -->
-<a href="{% url 'post_edit' pk=*** %}">edit post</a>
 ```
 
 ## Tips
