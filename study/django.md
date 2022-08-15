@@ -577,25 +577,12 @@ def post_list(request):
 
 ```xml
 <h1><a href="/">Django Girls Blog</a></h1>
-
-{% block content %}
-{% endblock %}
 ```
 
 子側テンプレート（`post_list.html`）
 
 ```xml
 {% extends 'blog/base.html' %}
-
-{% block content %}
-  {% for post in posts %}
-    <div>
-      <p>{{ post.published_date }}</p>
-      <h1>{{ post.title }}</h1>
-      <p>{{ post.text | linebreaksbr }}</p>
-    </div>
-  {% endfor %}
-{% endblock %}
 ```
 
 ## url params の利用
