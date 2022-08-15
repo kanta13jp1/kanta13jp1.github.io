@@ -544,7 +544,7 @@ def post_list(request):
 `blog/templates/blog/post_list.html`
 
 ```html
-{% for post in posts %}
+<!-- {% for post in posts %} -->
 <div>
   {% if post.published_date %}
   <div class="date">{{ post.published_date }}</div>
@@ -553,10 +553,10 @@ def post_list(request):
   <h1>{{ post.title }}</h1>
   <p>{{ post.text | linebreaksbr }}</p>
 </div>
-{% endfor %}
+<!-- {% endfor %} -->
 ```
 
-- `{% %}`はテンプレートタグといい、構文を使うことができる
+<!-- - `{% %}`はテンプレートタグといい、構文を使うことができる -->
 - `{ { some_key } }`で、view から渡された値を参照できる
 - `linebreaksbr`は改行を段落に変換するフィルタ
 
