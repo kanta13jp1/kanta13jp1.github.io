@@ -582,7 +582,6 @@ def post_list(request):
 子側テンプレート（`post_list.html`）
 
 ```xml
-{% extends 'blog/base.html' %}
 ```
 
 ## url params の利用
