@@ -3,4 +3,5 @@
 
 - [Algorithms](./algorithms)
 - [Apollo Client](./apollo-client)
+- [Bit](./bit)
 - [Django](./django)
