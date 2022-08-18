@@ -14,4 +14,5 @@ Index
 - [Algorithms](./study/algorithms)
 - [Apollo Client](./study/apollo-client)
 - [Bit](./study/bit)
+- [Circle CI](./study/circleci)
 - [Django](./study/django)
