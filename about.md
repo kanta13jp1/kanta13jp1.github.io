@@ -1,7 +1,7 @@
 [Go To Index](../)
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kanta13jp1/kanta13jp1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/kanta13jp1/kanta13jp1.github.io/edit/main/about.md) to maintain and preview the content for your website in Markdown files.
 
 GitHub上のエディターを使用して、Markdownファイルでウェブサイトのコンテンツを管理し、プレビューすることができます。
 
@@ -12,6 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Markdownは軽量で使いやすい、文章のスタイル付けのための構文です。これには次のような規則があります
 
 ```markdown
 Syntax highlighted code block
