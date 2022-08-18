@@ -4,7 +4,6 @@ Index
 
 - [このサイトのソースコード](https://github.com/kanta13jp1/kanta13jp1.github.io)
 
-this page is edit on [github]()
 # Index
 - [About](./about)
 
